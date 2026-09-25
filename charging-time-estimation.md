@@ -40,11 +40,11 @@ rises toward **≈0.97** at low power:
 |---:|---:|---:|
 | 11  | 0.949 | 10.4 |
 | 22  | 0.921 | 20.3 |
-| 50  | 0.871 | 43.6 |
+| 50  | 0.871 | 43.5 |
 | 100 | 0.834 | 83.4 |
 | 150 | 0.821 | 123.1 |
-| 250 | 0.810 | 202.4 |
-| 350 | 0.806 | 282.0 |
+| 250 | 0.810 | 202.6 |
+| 350 | 0.806 | 282.2 |
 
 This single function is the "curve": it approximates the average delivered power over a
 session (i.e. the effect of taper) as a function of the nominal plug power alone.
